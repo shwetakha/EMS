@@ -51,27 +51,7 @@ public class EmployeeCommand {
 		this.city = city;
 	}
 	
-	public void setCity(String city) {
-		this.city = city;
-	}
-	public void setCity(String city) {
-		this.city = city;
-	}
-	public void setCity(String city) {
-		this.city = city;
-	}
-	public void setCity(String city) {
-		this.city = city;
-	}
-	public void setCity(String city) {
-		this.city = city;
-	}
-	public void setCity(String city) {
-		this.city = city;
-	}
-	public void setCity(String city) {
-		this.city = city;
-	}
+	
 	
 
 }
